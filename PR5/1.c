@@ -1,6 +1,6 @@
 #include<stdio.h>
  main(){
-     int arr_1[5];
+    int arr_1[5];
     for(int i=0; i<=4; i++){
         printf("Enter array elements :");
         scanf("%d",&arr_1[i]);
